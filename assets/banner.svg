@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="300" viewBox="0 0 1120 300" role="img" aria-labelledby="title desc">
+  <title id="title">Mario Linares  Arquitecto de software</title>
+  <desc id="desc">Placa de perfil: frontend, sistemas y operación. Madrid.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#1a2230" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c4a574" stop-opacity="0"/>
+      <stop offset="0.2" stop-color="#c4a574"/>
+      <stop offset="0.8" stop-color="#c4a574"/>
+      <stop offset="1" stop-color="#c4a574" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1120" height="300" fill="#0b0f14"/>
+  <rect width="1120" height="300" fill="url(#grid)"/>
+  <rect x="0" y="0" width="6" height="300" fill="#c4a574"/>
+
+  <text x="48" y="52" fill="#8b939e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" letter-spacing="3.2">ML · MADRID · EST. 2015</text>
+
+  <text x="48" y="128" fill="#f3eee4" font-family="Georgia, 'Times New Roman', serif" font-size="58">Mario Linares</text>
+  <text x="48" y="172" fill="#c4a574" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" letter-spacing="1.4">ARQUITECTO DE SOFTWARE  ·  FRONTEND SYSTEMS</text>
+
+  <text x="48" y="228" fill="#c9d0d8" font-family="Georgia, 'Times New Roman', serif" font-size="18">Sistemas que aguantan inspección, migración y planta.</text>
+  <text x="48" y="256" fill="#7d8794" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">BANCA  ·  INDUSTRIA  ·  LOGÍSTICA  ·  IA LOCAL</text>
+
+  <g transform="translate(820, 58)" fill="none" stroke="#2a3544" stroke-width="1.2">
+    <rect x="0" y="0" width="250" height="184" rx="2"/>
+    <text x="16" y="28" fill="#8b939e" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="2">TOPOLOGÍA</text>
+
+    <rect x="16" y="48" width="88" height="36" fill="#121822" stroke="#c4a574"/>
+    <text x="60" y="71" text-anchor="middle" fill="#f3eee4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">WEB</text>
+
+    <rect x="146" y="48" width="88" height="36" fill="#121822" stroke="#3d9b8f"/>
+    <text x="190" y="71" text-anchor="middle" fill="#f3eee4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">API</text>
+
+    <rect x="16" y="128" width="88" height="36" fill="#121822" stroke="#7ba3c9"/>
+    <text x="60" y="151" text-anchor="middle" fill="#f3eee4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">EDGE</text>
+
+    <rect x="146" y="128" width="88" height="36" fill="#121822" stroke="#8b939e"/>
+    <text x="190" y="151" text-anchor="middle" fill="#f3eee4" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">DOCS</text>
+
+    <path d="M104 66H146M60 84V128M190 84V128M104 146H146" stroke="#3a4656"/>
+  </g>
+  <rect x="80" y="292" width="960" height="1" fill="url(#fade)"/>
+</svg>
