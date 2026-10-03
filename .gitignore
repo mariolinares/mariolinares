@@ -1,3 +1,4 @@
 *.pdf
 CV*
 .DS_Store
+.claude/
